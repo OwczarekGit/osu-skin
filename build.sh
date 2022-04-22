@@ -3,10 +3,11 @@
 BUILD_DIR="build"
 
 main(){
-	for i in $(ls *.svg)
+	for i in $(ls "./svgs/")
 	do
 		newname=$(echo "$i" | sed 's/.svg/.png/g')
-		magick -background none $i "$BUILD_DIR/$newname"
+		magick -background none "svgs/$i" "$BUILD_DIR/$newname"
+		echo "svgs/$i"
 	done
 }
 
