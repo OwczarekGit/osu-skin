@@ -1,4 +1,4 @@
 *.png
 *.zip
 *.osk
-./build
+build/

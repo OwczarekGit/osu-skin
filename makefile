@@ -9,6 +9,7 @@ build:
 	./build.sh
 	cp ./hitsounds/* ./build/
 	cp ./sounds/* ./build/
+	cp ./skin.ini ./build/
 
 zip:
 	cd build && zip -r skin.osk . && mv skin.osk ../Owczarek.osk
