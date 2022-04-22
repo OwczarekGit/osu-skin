@@ -40,12 +40,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:none;stroke:#ffffff;stroke-width:2.05336;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <circle
+       style="fill:none;stroke:#ffffff;stroke-width:1.61;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path843"
        cx="16.933334"
        cy="16.933334"
-       rx="15.642072"
-       ry="15.64207" />
+       r="15.86375" />
   </g>
 </svg>
