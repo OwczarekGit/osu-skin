@@ -25,21 +25,49 @@
      showgrid="false"
      units="px"
      height="126px"
-     inkscape:zoom="5.9366442"
-     inkscape:cx="61.903659"
-     inkscape:cy="65.356789"
+     inkscape:zoom="6.3663344"
+     inkscape:cx="72.490694"
+     inkscape:cy="60.945589"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient6287"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#00aaff;stop-opacity:1;"
+         offset="0"
+         id="stop6285" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1.51423;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.25"
+       id="path955-3"
+       cx="16.933334"
+       cy="16.933334"
+       r="0" />
+    <ellipse
+       style="fill:none;fill-opacity:0;stroke:#00aaff;stroke-width:1.56313;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.400408"
+       id="path955-36"
+       cx="16.933334"
+       cy="16.933334"
+       rx="15.358017"
+       ry="15.358018" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <circle
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:1.53547;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="path955"
