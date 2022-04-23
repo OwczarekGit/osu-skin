@@ -58,17 +58,18 @@
        fx="8.4666662"
        fy="8.4666662"
        r="3.175"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2,0,0,2,-8.4666665,-8.4666665)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:url(#radialGradient1162);fill-opacity:1;stroke:none;stroke-width:0.396873;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#radialGradient1162);fill-opacity:1;stroke:none;stroke-width:0.793745;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path924"
        cx="8.4666662"
        cy="8.4666662"
-       r="3.175" />
+       r="6.3499999" />
   </g>
 </svg>
