@@ -37,14 +37,25 @@
   <defs
      id="defs2" />
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="fill:#f96502;fill-opacity:0.5;stroke:none;stroke-width:1.04179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path924-3"
+       cx="8.4666662"
+       cy="8.4666662"
+       r="8.3343744" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#f9f902;fill-opacity:1;stroke:none;stroke-width:1.04179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f9f902;fill-opacity:1;stroke:none;stroke-width:0.992179;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path924"
        cx="8.4666662"
        cy="8.4666662"
-       r="8.3343744" />
+       r="7.9375" />
   </g>
 </svg>
