@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -26,8 +26,8 @@
      units="px"
      height="126px"
      inkscape:zoom="5.6568542"
-     inkscape:cx="54.889164"
-     inkscape:cy="64.346718"
+     inkscape:cx="44.812893"
+     inkscape:cy="60.634407"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -66,7 +66,7 @@
      id="layer1"
      style="display:none">
     <circle
-       style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+       style="fill:#a6a6a6;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="path843"
        cx="16.933334"
        cy="16.933334"
