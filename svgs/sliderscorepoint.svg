@@ -42,7 +42,7 @@
      inkscape:label="Layer 2"
      style="display:none">
     <rect
-       style="fill:#022752;fill-opacity:1;stroke:none;stroke-width:1.9873;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#000e1f;fill-opacity:1;stroke:none;stroke-width:1.9873;stroke-linecap:round;stroke-linejoin:round"
        id="rect844"
        width="4.2333331"
        height="4.2333331"
@@ -52,8 +52,7 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#fabc02;stroke-width:1.41111;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path924"
