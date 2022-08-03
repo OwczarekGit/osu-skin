@@ -1,0 +1,121 @@
+[
+  {
+    "Type": "osu.Game.Skinning.LegacyComboCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0,
+      "y": -90
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 12,
+    "Origin": 12,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyScoreCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.96,
+      "y": 0.96
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 53.75995
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 0.6,
+      "y": 0.6
+    },
+    "Anchor": 33,
+    "Origin": 33,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 9,
+    "Origin": 9,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Screens.Play.HUD.DefaultSongProgress, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 36,
+    "Origin": 36,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 0.0,
+    "Scale": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "Anchor": 10,
+    "Origin": 10,
+    "UsesFixedAnchor": false,
+    "Settings": {},
+    "Children": []
+  },
+  {
+    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "Rotation": 180,
+    "Scale": {
+      "x": 1,
+      "y": 1
+    },
+    "Anchor": 34,
+    "Origin": 10,
+    "UsesFixedAnchor": true,
+    "Settings": {},
+    "Children": []
+  }
+]
