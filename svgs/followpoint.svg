@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="16"
-   viewBox="0 0 67.733332 4.2333333"
+   width="512"
+   height="32"
+   viewBox="0 0 135.46666 8.4666666"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="followpoint.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,16 @@
      units="px"
      height="32px"
      inkscape:zoom="2.0989206"
-     inkscape:cx="141.26309"
-     inkscape:cy="60.507291"
+     inkscape:cx="252.98718"
+     inkscape:cy="3.3350475"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs2">
     <linearGradient
@@ -58,7 +60,7 @@
        fx="33.866665"
        fy="2.1166666"
        r="33.072914"
-       gradientTransform="matrix(1,0,0,0.016,0,2.0827999)"
+       gradientTransform="matrix(1.7600001,0,0,0.032,8.1280026,4.1656001)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -66,11 +68,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
-       style="fill:url(#radialGradient828);fill-opacity:1;stroke:none;stroke-width:0.522925;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.3"
+       style="opacity:0.3;fill:url(#radialGradient828);fill-opacity:1;stroke:none;stroke-width:0.981094;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path924"
-       cx="33.866665"
-       cy="2.1166666"
-       rx="33.072914"
-       ry="0.52916664" />
+       cx="67.73333"
+       cy="4.2333331"
+       rx="58.208332"
+       ry="1.0583333" />
   </g>
 </svg>

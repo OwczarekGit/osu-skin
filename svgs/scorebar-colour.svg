@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="768"
-   height="24"
-   viewBox="0 0 203.2 6.35"
+   width="1536"
+   height="48"
+   viewBox="0 0 406.4 12.7"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="scorebar-colour.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,16 +25,18 @@
      showgrid="false"
      units="px"
      height="126px"
-     inkscape:zoom="8.395683"
-     inkscape:cx="44.36804"
-     inkscape:cy="5.3598975"
+     inkscape:zoom="0.52473019"
+     inkscape:cx="827.09173"
+     inkscape:cy="36.209085"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     width="512px" />
+     width="512px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs2" />
   <g
@@ -42,11 +44,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#f90255;fill-opacity:1;stroke:#f90254;stroke-width:1.25762;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f90255;fill-opacity:1;stroke:#f90254;stroke-width:2.51524;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1300"
-       width="195.0632"
-       height="2.9757099"
-       x="4.068399"
-       y="1.687145" />
+       width="390.12643"
+       height="5.9514203"
+       x="8.1367826"
+       y="3.3742898" />
   </g>
 </svg>

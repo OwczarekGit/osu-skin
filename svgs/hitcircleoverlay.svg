@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="128"
-   height="128"
-   viewBox="0 0 33.866668 33.866668"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733336 67.733336"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="hitcircleoverlay.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,17 @@
      showgrid="false"
      units="px"
      height="126px"
-     inkscape:zoom="6.3663344"
-     inkscape:cx="72.490694"
-     inkscape:cy="60.945589"
+     inkscape:zoom="2.2508391"
+     inkscape:cx="99.518441"
+     inkscape:cy="100.85128"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs2">
     <linearGradient
@@ -50,18 +52,18 @@
      id="layer2"
      inkscape:label="Layer 2">
     <circle
-       style="fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1.51423;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.25"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#00aaff;stroke-width:1.51423;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.25"
        id="path955-3"
        cx="16.933334"
        cy="16.933334"
        r="0" />
     <ellipse
-       style="fill:none;fill-opacity:0;stroke:#02c8f9;stroke-width:1.56313;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.60000002"
+       style="fill:none;fill-opacity:0;stroke:#02c8f9;stroke-width:3.12626;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6"
        id="path955-36"
-       cx="16.933334"
-       cy="16.933334"
-       rx="15.358017"
-       ry="15.358018" />
+       cx="33.866669"
+       cy="33.866669"
+       rx="30.716038"
+       ry="30.716036" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -69,10 +71,10 @@
      id="layer1"
      sodipodi:insensitive="true">
     <circle
-       style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:1.53547;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:3.07094;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="path955"
-       cx="16.933334"
-       cy="16.933334"
-       r="14.842681" />
+       cx="33.866669"
+       cy="33.866669"
+       r="29.685364" />
   </g>
 </svg>

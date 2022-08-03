@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256"
-   height="256"
-   viewBox="0 0 67.733336 67.733336"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="sliderb.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,39 +25,40 @@
      showgrid="false"
      units="px"
      height="126px"
-     inkscape:zoom="2.0989207"
-     inkscape:cx="141.26308"
-     inkscape:cy="114.34448"
+     inkscape:zoom="1.0494604"
+     inkscape:cx="211.53729"
+     inkscape:cy="348.75067"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
-     inkscape:window-y="34"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:#000000;fill-opacity:0.5;stroke:#ffffff;stroke-width:7.06082;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <circle
+       style="fill:#000000;fill-opacity:0.5;stroke:#ffffff;stroke-width:14.1216;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path843"
-       cx="33.866669"
-       cy="33.866669"
-       rx="22.927927"
-       ry="22.927923" />
+       cx="67.733337"
+       cy="67.733337"
+       r="45.85585" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
     <ellipse
-       style="fill:none;stroke:#ffffff;stroke-width:5.48069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:10.9614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path843-3"
-       cx="33.866669"
-       cy="33.866669"
-       rx="12.870073"
-       ry="12.870072" />
+       cx="67.733337"
+       cy="67.733337"
+       rx="25.740143"
+       ry="25.740147" />
   </g>
 </svg>
