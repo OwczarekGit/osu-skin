@@ -27,7 +27,7 @@
      units="px"
      height="32px"
      inkscape:zoom="2.0989206"
-     inkscape:cx="252.98718"
+     inkscape:cx="239.64699"
      inkscape:cy="3.3350475"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -60,7 +60,7 @@
        fx="33.866665"
        fy="2.1166666"
        r="33.072914"
-       gradientTransform="matrix(1.7600001,0,0,0.032,8.1280026,4.1656001)"
+       gradientTransform="matrix(1.4400001,0,0,0.032,18.965337,4.1656003)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -68,11 +68,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <ellipse
-       style="opacity:0.3;fill:url(#radialGradient828);fill-opacity:1;stroke:none;stroke-width:0.981094;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.3;fill:url(#radialGradient828);fill-opacity:1;stroke:none;stroke-width:0.887433;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path924"
        cx="67.73333"
        cy="4.2333331"
-       rx="58.208332"
+       rx="47.625"
        ry="1.0583333" />
   </g>
 </svg>

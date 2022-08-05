@@ -26,8 +26,8 @@
      units="px"
      height="126px"
      inkscape:zoom="2.2508391"
-     inkscape:cx="99.518441"
-     inkscape:cy="100.85128"
+     inkscape:cx="114.17964"
+     inkscape:cy="96.408491"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="1920"
@@ -57,13 +57,12 @@
        cx="16.933334"
        cy="16.933334"
        r="0" />
-    <ellipse
-       style="fill:none;fill-opacity:0;stroke:#02c8f9;stroke-width:3.12626;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6"
+    <circle
+       style="fill:none;fill-opacity:0;stroke:#02c8f9;stroke-width:3.20313;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.6"
        id="path955-36"
        cx="33.866669"
        cy="33.866669"
-       rx="30.716038"
-       ry="30.716036" />
+       r="31.471354" />
   </g>
   <g
      inkscape:label="Layer 1"
