@@ -1,9 +1,9 @@
 [
   {
-    "Type": "osu.Game.Skinning.LegacyComboCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Skinning.LegacyComboCounter, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
-      "x": 0,
-      "y": -90
+      "x": 0.0,
+      "y": -90.0
     },
     "Rotation": 0.0,
     "Scale": {
@@ -17,7 +17,7 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Skinning.LegacyScoreCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Skinning.LegacyScoreCounter, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 0.0
@@ -34,7 +34,7 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Skinning.LegacyAccuracyCounter, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 53.75995
@@ -51,7 +51,7 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Skinning.LegacyHealthDisplay, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 0.0
@@ -68,7 +68,7 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Screens.Play.HUD.DefaultSongProgress, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Screens.Play.HUD.DefaultSongProgress, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 0.0
@@ -85,7 +85,7 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 0.0
@@ -102,15 +102,15 @@
     "Children": []
   },
   {
-    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.731.1.0, Culture=neutral, PublicKeyToken=null",
+    "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2022.821.0.0, Culture=neutral, PublicKeyToken=null",
     "Position": {
       "x": 0.0,
       "y": 0.0
     },
-    "Rotation": 180,
+    "Rotation": 0.0,
     "Scale": {
-      "x": 1,
-      "y": 1
+      "x": -1.0,
+      "y": 1.0
     },
     "Anchor": 34,
     "Origin": 10,
