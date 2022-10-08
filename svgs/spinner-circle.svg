@@ -7,7 +7,7 @@
    viewBox="0 0 270.93334 270.93334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:docname="spinner-circle.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,12 +26,12 @@
      units="px"
      height="126px"
      inkscape:zoom="2"
-     inkscape:cx="477"
+     inkscape:cx="482.5"
      inkscape:cy="474"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
-     inkscape:window-x="1920"
-     inkscape:window-y="34"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      inkscape:showpageshadow="0"
@@ -211,15 +211,9 @@
      id="layer4"
      inkscape:label="Layer 4"
      style="display:inline">
-    <circle
-       style="display:inline;opacity:0.9;fill:#f90254;fill-opacity:1;stroke:none;stroke-width:0.290789;stroke-miterlimit:1"
-       id="path971"
-       cx="135.46667"
-       cy="98.425003"
-       r="7.9375" />
     <path
        style="opacity:0.9;fill:none;stroke:#ffffff;stroke-width:0.911958;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow);marker-end:url(#marker4382)"
-       d="m 132.82873,98.424953 h 5.27583"
+       d="m 167.21669,132.82875 v 5.27584"
        id="path1141"
        sodipodi:nodetypes="cc" />
   </g>
